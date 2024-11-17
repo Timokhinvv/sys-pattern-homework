@@ -76,24 +76,67 @@ To https://github.com/Timokhinvv/sys-pattern-homework.git
 
 `Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
+1. `nano .gitignore`
 2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
+3. `git add .`
+4. `git status`
+5. `git commit -m "Two commit"`
 6. 
+
 
 ```
 Поле для вставки кода...
 ....
+tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$ nano .gitignore
+tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$ git status
+Текущая ветка: main
+Эта ветка соответствует «origin/main».
+
+Изменения, которые не в индексе для коммита:
+  (используйте «git add <файл>...», чтобы добавить файл в индекс)
+  (используйте «git restore <файл>...», чтобы отменить изменения в рабочем каталоге)
+        изменено:      README.md
+
+Неотслеживаемые файлы:
+  (используйте «git add <файл>...», чтобы добавить в то, что будет включено в коммит)
+        .gitignore
+        img/SC5.png
+
+индекс пуст (используйте «git add» и/или «git commit -a»)
 ....
-....
-....
+Изменения, которые не в индексе для коммита:
+  (используйте «git add <файл>...», чтобы добавить файл в индекс)
+  (используйте «git restore <файл>...», чтобы отменить изменения в рабочем каталоге)
+        изменено:      .gitignore
+
+Неотслеживаемые файлы:
+  (используйте «git add <файл>...», чтобы добавить в то, что будет включено в коммит)
+        img/SC6.png
+        img/SC7.png
+
+tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$ git add .
+tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$ git status
+Текущая ветка: main
+Эта ветка соответствует «origin/main».
+
+Изменения, которые будут включены в коммит:
+  (используйте «git restore --staged <файл>...», чтобы убрать из индекса)
+        новый файл:    .gitignore
+        изменено:      README.md
+        новый файл:    img/SC5.png
+        новый файл:    img/SC6.png
+        новый файл:    img/SC7.png
+
+tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$
+
 ```
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 2](ссылка на скриншот 2)`
 
+[SC6] (https://github.com/Timokhinvv/img/SC6)
+[SC7] (https://github.com/Timokhinvv/img/SC7)
+[SC8] (https://github.com/Timokhinvv/img/SC8)
 
 ---
 
