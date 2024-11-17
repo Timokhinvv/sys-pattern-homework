@@ -149,19 +149,46 @@ tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$
 2. `git branch dev`
 3. `git checkout dev`
 4. `nano test.sh`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+5. `cat test.sh`
+6. 'git add .'
+7. 'git commit -m 'Three commit'
+
 
 ```
 Поле для вставки кода...
 ....
-....
+tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$ git commit -m "Three commit"
+[dev 0b6f4aa] Three commit
+ 2 files changed, 6 insertions(+), 5 deletions(-)
+ create mode 100644 test.sh
+tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$ git diff
+diff --git a/README.md b/README.md
+index ccdf4d5..37240dd 100644
+--- a/README.md
++++ b/README.md
+@@ -149,8 +149,10 @@ tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$
+ 2. `git branch dev`
+ 3. `git checkout dev`
+ 4. `nano test.sh`
+-5. `Заполните здесь этапы выполнения, если требуется ....`
+-6. 
++5. `cat test.sh`
++6. 'git add .'
++7. 'git commit -m 'Three commit'
++
+ 
+ ```
+ Поле для вставки кода...
 ....
 ....
 ```
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](ссылка на скриншот)`
+
+[SC10] (https://github.com/Timokhinvv/img/SC10)
+[SC11] (https://github.com/Timokhinvv/img/SC11)
+[SC12] (https://github.com/Timokhinvv/img/SC12)
 
 ### Задание 4
 
