@@ -81,7 +81,7 @@ To https://github.com/Timokhinvv/sys-pattern-homework.git
 3. `git add .`
 4. `git status`
 5. `git commit -m "Two commit"`
-6. 
+6. 'git push origin main'
 
 
 ```
@@ -145,10 +145,10 @@ tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$
 
 `Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
+1. `git branch`
+2. `git branch dev`
+3. `git checkout dev`
+4. `nano test.sh`
 5. `Заполните здесь этапы выполнения, если требуется ....`
 6. 
 
