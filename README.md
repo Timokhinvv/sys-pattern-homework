@@ -137,6 +137,7 @@ tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$
 [SC6] (https://github.com/Timokhinvv/img/SC6)
 [SC7] (https://github.com/Timokhinvv/img/SC7)
 [SC8] (https://github.com/Timokhinvv/img/SC8)
+[SC9] (https://github.com/Timokhinvv/img/SC9)
 
 ---
 
