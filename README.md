@@ -49,7 +49,15 @@ git status
 индекс пуст (используйте «git add» и/или «git commit -a»
 ....
 ....
-....
+tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$ git push origin main
+Перечисление объектов: 11, готово.
+Подсчет объектов: 100% (11/11), готово.
+Сжатие объектов: 100% (8/8), готово.
+Запись объектов: 100% (8/8), 591.54 КиБ | 2.11 МиБ/с, готово.
+Всего 8 (изменений 1), повторно использовано 0 (изменений 0), повторно использовано пакетов 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Timokhinvv/sys-pattern-homework.git
+   7e21e2d..2cb64a0  main -> main....
 ```
 
 `При необходимости прикрепитe сюда скриншоты
@@ -59,7 +67,8 @@ git status
 [SC1] (https://github.com/Timokhinvv/img/SC1)
 [SC2] (https://github.com/Timokhinvv/img/SC2)
 [SC3] (https://github.com/Timokhinvv/img/SC3)
-
+[SC4] (https://github.com/Timokhinvv/img/SC4)
+[SC5] (https://github.com/Timokhinvv/img/SC5)
 
 ---
 
