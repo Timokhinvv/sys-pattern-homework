@@ -69,6 +69,8 @@ To https://github.com/Timokhinvv/sys-pattern-homework.git
 [SC5] (https://github.com/Timokhinvv/img/SC5)
 
 ---
+Ссылка:
+https://github.com/Timokhinvv/sys-pattern-homework/commit/23702775d50fcfd4a18fed77c5eeb37ed1c92d16
 
 ### Задание 2
 
@@ -137,6 +139,8 @@ tvv@tvv-VirtualBox:~/projects/sys-pattern-homework$
 [SC9] (https://github.com/Timokhinvv/img/SC9)
 
 ---
+Ссылка:
+https://github.com/Timokhinvv/sys-pattern-homework/commit/23702775d50fcfd4a18fed77c5eeb37ed1c92d16
 
 ### Задание 3
 
