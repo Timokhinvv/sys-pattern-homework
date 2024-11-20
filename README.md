@@ -70,7 +70,7 @@ To https://github.com/Timokhinvv/sys-pattern-homework.git
 
 ---
 Ссылка:
-https://github.com/Timokhinvv/sys-pattern-homework/commit/23702775d50fcfd4a18fed77c5eeb37ed1c92d16
+(https://github.com/netology-code/sys-pattern-homework/commit/53b9ca407fc43fe30cbf94473c056cf64546cc49)
 
 ### Задание 2
 
